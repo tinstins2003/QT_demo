@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 206,
+                        "durationMicroseconds": 122,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 27
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 27,
-                        "durationMicroseconds": 46,
+                        "durationMicroseconds": 27,
                         "errorMessage": "Cannot access value for name toDoInput",
                         "functionName": "fill",
                         "line": 56
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 143,
+                        "durationMicroseconds": 122,
                         "errorMessage": "",
                         "functionName": "cursorShape",
                         "line": 61
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 125,
+                        "durationMicroseconds": 116,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 60
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 153,
+                        "durationMicroseconds": 150,
                         "errorMessage": "",
                         "functionName": "layoutDirection",
                         "line": 77
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 16,
-                        "durationMicroseconds": 928,
+                        "durationMicroseconds": 628,
                         "errorMessage": "Cannot access value for name stringListModel",
                         "functionName": "model",
                         "line": 86
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 136,
+                        "durationMicroseconds": 72,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 81
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 183,
+                        "durationMicroseconds": 91,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 90
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 28,
-                        "durationMicroseconds": 228,
+                        "durationMicroseconds": 174,
                         "errorMessage": "Cannot access value for name display",
                         "functionName": "contentText",
                         "line": 96
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 213,
+                        "durationMicroseconds": 96,
                         "errorMessage": "Cannot access value for name index",
                         "functionName": "indexx",
                         "line": 97
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 34,
-                        "durationMicroseconds": 318,
+                        "durationMicroseconds": 242,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 93
@@ -142,7 +142,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 163,
+                        "durationMicroseconds": 73,
                         "errorMessage": "",
                         "functionName": "preferredWidth",
                         "line": 94
@@ -150,7 +150,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 40,
-                        "durationMicroseconds": 195,
+                        "durationMicroseconds": 134,
                         "errorMessage": "",
                         "functionName": "preferredHeight",
                         "line": 95

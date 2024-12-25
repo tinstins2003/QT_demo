@@ -5,20 +5,21 @@
 #include<QQuickItem>
 #include <QStringListModel>
 #include <QFile>
+#include <QNetworkAccessManager>
 
 class ToDoListPage:public QObject
 {
     Q_OBJECT
 
 public:
-    explicit ToDoListPage(QObject *parent = nullptr,QString filePath="");
+    explicit ToDoListPage(QObject *parent = nullptr);
 
     QStringListModel *model() const {
         return listItem;
     }
-    void loadData(QString dataPath);
+    void loadData();
     void saveData();
-
+    void onReplyFinished();
 signals:
 
 public slots:
@@ -28,7 +29,10 @@ public slots:
 
 private:
     QStringListModel *listItem = new QStringListModel();
-    QString dataPath;
+    QString host = "http://localhost:3000/";
+    QNetworkAccessManager httpReq;
+
+
 };
 
 #endif // TODOLISTPAGE_H

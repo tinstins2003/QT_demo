@@ -2,17 +2,24 @@
   /home/tinstins/QT_Demo/build/Desktop_Qt_6_8_1-MinSizeRel/appQT_Demo_autogen/moc_predefs.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/QDebug \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/QFile \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/QFlags \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/QList \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/QMetaType \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/QObject \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/QRect \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/QSharedDataPointer \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/QSize \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/QSizeF \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/QString \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/QStringListModel \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/QUrl \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/QVariant \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/q20functional.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/q20iterator.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/q20memory.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/q20type_traits.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/q23utility.h \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/q26numeric.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/qabstractitemmodel.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/qalgorithms.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/qanystringview.h \
@@ -43,6 +50,7 @@
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/qcoreapplication.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/qcoreapplication_platform.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/qcoreevent.h \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/qcryptographichash.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/qdarwinhelpers.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/qdatastream.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtCore/qdatetime.h \
@@ -176,6 +184,21 @@
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtGui/qvector2d.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtGui/qvectornd.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtGui/qwindowdefs.h \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/QNetworkAccessManager \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/QSslConfiguration \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/QSslPreSharedKeyAuthenticator \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/qabstractsocket.h \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/qhostaddress.h \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/qhttpheaders.h \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/qnetworkaccessmanager.h \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/qnetworkrequest.h \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/qssl.h \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/qsslcertificate.h \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/qsslconfiguration.h \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/qsslerror.h \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/qsslpresharedkeyauthenticator.h \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/qsslsocket.h \
+  /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/qtcpsocket.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/qtnetwork-config.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/qtnetworkexports.h \
   /home/tinstins/Qt/6.8.1/gcc_64/include/QtNetwork/qtnetworkglobal.h \
