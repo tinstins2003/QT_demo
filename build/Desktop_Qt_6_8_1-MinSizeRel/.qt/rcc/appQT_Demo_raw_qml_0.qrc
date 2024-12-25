@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/QT_Demo/">
+    <file alias="ToDoListPage.qml">/home/tinstins/QT_Demo/ToDoListPage.qml</file>
+    <file alias="Main.qml">/home/tinstins/QT_Demo/Main.qml</file>
+    <file alias="ToDoItem.qml">/home/tinstins/QT_Demo/ToDoItem.qml</file>
+    <file alias=".ini/text">/home/tinstins/QT_Demo/.ini/text</file>
+  </qresource>
+</RCC>
+

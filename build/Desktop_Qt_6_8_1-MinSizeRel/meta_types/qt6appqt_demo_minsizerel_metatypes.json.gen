@@ -1,0 +1,62 @@
+[
+    {
+        "classes": [
+            {
+                "className": "ToDoListPage",
+                "lineNumber": 9,
+                "object": true,
+                "qualifiedClassName": "ToDoListPage",
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "content",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 0,
+                        "name": "addClicked",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "index",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 1,
+                        "name": "deleteClicked",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "index",
+                                "type": "int"
+                            },
+                            {
+                                "name": "newContent",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 2,
+                        "name": "editClicked",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "todolistpage.h",
+        "outputRevision": 68
+    }
+]

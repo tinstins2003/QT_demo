@@ -1,0 +1,14 @@
+-rootPath
+/home/tinstins/QT_Demo
+-cmake-output
+-output-file
+/home/tinstins/QT_Demo/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appQT_Demo_build.cmake
+-importPath
+/home/tinstins/QT_Demo/build/Desktop_Qt_6_8_1-Debug/QT_Demo
+-importPath
+/home/tinstins/QT_Demo/build/Desktop_Qt_6_8_1-Debug
+-importPath
+/home/tinstins/Qt/6.8.1/gcc_64/qml
+-qrcFiles
+/home/tinstins/QT_Demo/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_QT_Demo.qrc
+/home/tinstins/QT_Demo/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appQT_Demo_raw_qml_0.qrc

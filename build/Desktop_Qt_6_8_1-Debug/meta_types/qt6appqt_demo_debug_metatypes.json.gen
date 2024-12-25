@@ -1,0 +1,34 @@
+[
+    {
+        "classes": [
+            {
+                "className": "ToDoListPage",
+                "lineNumber": 7,
+                "object": true,
+                "qualifiedClassName": "ToDoListPage",
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "textInput",
+                                "type": "QQuickItem*"
+                            }
+                        ],
+                        "index": 0,
+                        "name": "addClicked",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "todolistpage.h",
+        "outputRevision": 68
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "classes": [
+        {
+            "className": "ToDoItemModel",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "ToDoItemModel",
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "addClicked",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "todoitemmodel.h",
+    "outputRevision": 68
+}

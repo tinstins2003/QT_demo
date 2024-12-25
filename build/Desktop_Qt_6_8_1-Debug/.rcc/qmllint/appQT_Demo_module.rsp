@@ -1,0 +1,10 @@
+-I
+/home/tinstins/QT_Demo/build/Desktop_Qt_6_8_1-Debug
+-I
+/home/tinstins/Qt/6.8.1/gcc_64/qml
+--resource
+/home/tinstins/QT_Demo/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_QT_Demo.qrc
+--resource
+/home/tinstins/QT_Demo/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appQT_Demo_raw_qml_0.qrc
+--module
+QT_Demo

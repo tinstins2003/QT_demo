@@ -1,0 +1,7 @@
+module QT_Demo
+typeinfo appQT_Demo.qmltypes
+prefer :/qt/qml/QT_Demo/
+ToDoListPage 1.0 ToDoListPage.qml
+Main 1.0 Main.qml
+ToDoItem 1.0 ToDoItem.qml
+
