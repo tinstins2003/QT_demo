@@ -11,7 +11,7 @@ const common_1 = require("@nestjs/common");
 const fs = require("fs");
 let AppService = class AppService {
     getData() {
-        let words = fs.readFileSync('/home/tinstins/Desktop/ToDoListAPI/to-do-list-api/src/.ini/text', 'utf-8');
+        let words = fs.readFileSync('./src/.ini/text', 'utf-8');
         let lines = words.split(/\r?\n/);
         return lines;
     }
@@ -21,7 +21,7 @@ let AppService = class AppService {
             stringData += item.toString() + "\n";
         }
         stringData = stringData.trimEnd();
-        fs.writeFileSync('/home/tinstins/Desktop/ToDoListAPI/to-do-list-api/src/.ini/text', stringData);
+        fs.writeFileSync("./src/.ini/text", stringData);
         return data;
     }
 };

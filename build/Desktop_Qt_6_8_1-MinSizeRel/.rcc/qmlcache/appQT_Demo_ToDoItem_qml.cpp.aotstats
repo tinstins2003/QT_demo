@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 26,
-                        "durationMicroseconds": 69,
+                        "durationMicroseconds": 55,
                         "errorMessage": "Cannot access value for name isEditing",
                         "functionName": "visible",
                         "line": 22
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 25,
-                        "durationMicroseconds": 29,
+                        "durationMicroseconds": 27,
                         "errorMessage": "Cannot retrieve a non-object type by ID: scrollView",
                         "functionName": "width",
                         "line": 24
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 26,
-                        "durationMicroseconds": 13,
+                        "durationMicroseconds": 16,
                         "errorMessage": "Cannot retrieve a non-object type by ID: scrollView",
                         "functionName": "height",
                         "line": 25
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 1689,
+                        "durationMicroseconds": 1729,
                         "errorMessage": "",
                         "functionName": "text",
                         "line": 26
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 145,
+                        "durationMicroseconds": 176,
                         "errorMessage": "",
                         "functionName": "wrapMode",
                         "line": 28
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 126,
+                        "durationMicroseconds": 101,
                         "errorMessage": "",
                         "functionName": "cursorShape",
                         "line": 33
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 56,
+                        "durationMicroseconds": 62,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 32
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 26,
-                        "durationMicroseconds": 30,
+                        "durationMicroseconds": 44,
                         "errorMessage": "Cannot access value for name isEditing",
                         "functionName": "visible",
                         "line": 41
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 25,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 30,
                         "errorMessage": "Cannot retrieve a non-object type by ID: scrollView",
                         "functionName": "width",
                         "line": 43
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 26,
-                        "durationMicroseconds": 31,
+                        "durationMicroseconds": 23,
                         "errorMessage": "Cannot retrieve a non-object type by ID: scrollView",
                         "functionName": "height",
                         "line": 44
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 34,
-                        "durationMicroseconds": 120,
+                        "durationMicroseconds": 125,
                         "errorMessage": "",
                         "functionName": "lineHeightMode",
                         "line": 47
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 68,
+                        "durationMicroseconds": 75,
                         "errorMessage": "",
                         "functionName": "wrapMode",
                         "line": 48
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 32,
-                        "durationMicroseconds": 56,
+                        "durationMicroseconds": 70,
                         "errorMessage": "",
                         "functionName": "fontSizeMode",
                         "line": 49
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 65,
+                        "durationMicroseconds": 55,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 54
@@ -174,7 +174,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 21,
                         "errorMessage": "Cannot retrieve a non-object type by ID: deleteBtn",
                         "functionName": "fill",
                         "line": 70
@@ -222,7 +222,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 80,
+                        "durationMicroseconds": 17,
                         "errorMessage": "Cannot retrieve a non-object type by ID: deleteBtn",
                         "functionName": "fill",
                         "line": 100

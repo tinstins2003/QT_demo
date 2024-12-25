@@ -4,7 +4,7 @@ import * as fs from 'fs';
 @Injectable()
 export class AppService {
   getData(): any {
-    let words = fs.readFileSync('/home/tinstins/Desktop/ToDoListAPI/to-do-list-api/src/.ini/text', 'utf-8')
+    let words = fs.readFileSync('./src/.ini/text', 'utf-8')
     let lines = words.split(/\r?\n/);
     return lines
   }
@@ -16,7 +16,7 @@ export class AppService {
       stringData +=  item.toString() + "\n" 
     }
     stringData=stringData.trimEnd()
-    fs.writeFileSync('/home/tinstins/Desktop/ToDoListAPI/to-do-list-api/src/.ini/text', stringData)
+    fs.writeFileSync("./src/.ini/text", stringData)
     return data
   }
 }

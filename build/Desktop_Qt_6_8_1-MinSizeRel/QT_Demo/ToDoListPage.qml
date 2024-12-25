@@ -19,7 +19,7 @@ Item {
         transformOrigin: Item.Center
         onClicked: {
             toDoListPage.addClicked(toDoInput.text)
-            toDoInput.text = "Text Input";
+            toDoInput.text = "Input Here !!!";
         }
 
         background:Rectangle {
@@ -40,7 +40,7 @@ Item {
         id: toDoInput
         color: "#000000"
         anchors.fill:scrollView
-        text: qsTr("Text Input")
+        text: qsTr("Input Here !!!")
         font.pixelSize: 12
         wrapMode: Text.Wrap
         selectedTextColor: "#000000"
