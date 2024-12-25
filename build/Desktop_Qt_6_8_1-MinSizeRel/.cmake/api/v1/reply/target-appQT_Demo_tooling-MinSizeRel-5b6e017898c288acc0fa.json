@@ -71,18 +71,16 @@
 			[
 				0,
 				1,
-				2,
-				3
+				2
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
+				3,
 				4,
-				5,
-				6,
-				7
+				5
 			]
 		}
 	],
@@ -107,12 +105,6 @@
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 5,
-			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_8_1-MinSizeRel/QT_Demo/.ini/text",
-			"sourceGroupIndex" : 0
-		},
-		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_8_1-MinSizeRel/QT_Demo/ToDoListPage.qml.rule",
@@ -128,12 +120,6 @@
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_8_1-MinSizeRel/QT_Demo/ToDoItem.qml.rule",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 0,
-			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_8_1-MinSizeRel/QT_Demo/.ini/text.rule",
 			"sourceGroupIndex" : 1
 		}
 	],

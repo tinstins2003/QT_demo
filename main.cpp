@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
 
     QQmlApplicationEngine engine;
 
-    const QString DATA_PATH="/home/tinstins/QT_Demo/.ini/text";
+
     ToDoListPage toDoListPage;
     QStringListModel *item = toDoListPage.model();
 

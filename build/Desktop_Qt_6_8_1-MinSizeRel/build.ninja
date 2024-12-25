@@ -198,7 +198,7 @@ build all_qmllint_module: phony appQT_Demo_qmllint_module
 #############################################
 # Utility command for appQT_Demo_tooling
 
-build appQT_Demo_tooling: phony QT_Demo/ToDoListPage.qml QT_Demo/Main.qml QT_Demo/ToDoItem.qml QT_Demo/.ini/text
+build appQT_Demo_tooling: phony QT_Demo/ToDoListPage.qml QT_Demo/Main.qml QT_Demo/ToDoItem.qml
 
 
 #############################################
@@ -363,7 +363,7 @@ build .rcc/qmlcache/appQT_Demo_ToDoItem_qml.cpp .rcc/qmlcache/appQT_Demo_ToDoIte
 #############################################
 # Custom command for .qt/rcc/qrc_appQT_Demo_raw_qml_0.cpp
 
-build .qt/rcc/qrc_appQT_Demo_raw_qml_0.cpp | ${cmake_ninja_workdir}.qt/rcc/qrc_appQT_Demo_raw_qml_0.cpp: CUSTOM_COMMAND /home/tinstins/QT_Demo/ToDoListPage.qml /home/tinstins/QT_Demo/Main.qml /home/tinstins/QT_Demo/ToDoItem.qml /home/tinstins/QT_Demo/.ini/text .qt/rcc/appQT_Demo_raw_qml_0.qrc /home/tinstins/Qt/6.8.1/gcc_64/libexec/rcc || appQT_Demo_autogen appQT_Demo_autogen_timestamp_deps appQT_Demo_qmlimportscan appQT_Demo_tooling
+build .qt/rcc/qrc_appQT_Demo_raw_qml_0.cpp | ${cmake_ninja_workdir}.qt/rcc/qrc_appQT_Demo_raw_qml_0.cpp: CUSTOM_COMMAND /home/tinstins/QT_Demo/ToDoListPage.qml /home/tinstins/QT_Demo/Main.qml /home/tinstins/QT_Demo/ToDoItem.qml .qt/rcc/appQT_Demo_raw_qml_0.qrc /home/tinstins/Qt/6.8.1/gcc_64/libexec/rcc || appQT_Demo_autogen appQT_Demo_autogen_timestamp_deps appQT_Demo_qmlimportscan appQT_Demo_tooling
   COMMAND = cd /home/tinstins/QT_Demo/build/Desktop_Qt_6_8_1-MinSizeRel && /home/tinstins/Qt/6.8.1/gcc_64/libexec/rcc --output /home/tinstins/QT_Demo/build/Desktop_Qt_6_8_1-MinSizeRel/.qt/rcc/qrc_appQT_Demo_raw_qml_0.cpp --name appQT_Demo_raw_qml_0 /home/tinstins/QT_Demo/build/Desktop_Qt_6_8_1-MinSizeRel/.qt/rcc/appQT_Demo_raw_qml_0.qrc
   DESC = Running rcc for resource appQT_Demo_raw_qml_0
   restat = 1
@@ -440,15 +440,6 @@ build QT_Demo/Main.qml | ${cmake_ninja_workdir}QT_Demo/Main.qml: CUSTOM_COMMAND 
 build QT_Demo/ToDoItem.qml | ${cmake_ninja_workdir}QT_Demo/ToDoItem.qml: CUSTOM_COMMAND /home/tinstins/QT_Demo/ToDoItem.qml
   COMMAND = cd /home/tinstins/QT_Demo && /home/tinstins/Qt/Tools/CMake/bin/cmake -E copy /home/tinstins/QT_Demo/ToDoItem.qml /home/tinstins/QT_Demo/build/Desktop_Qt_6_8_1-MinSizeRel/QT_Demo/ToDoItem.qml
   DESC = Copying ToDoItem.qml to /home/tinstins/QT_Demo/build/Desktop_Qt_6_8_1-MinSizeRel/QT_Demo/ToDoItem.qml
-  restat = 1
-
-
-#############################################
-# Custom command for QT_Demo/.ini/text
-
-build QT_Demo/.ini/text | ${cmake_ninja_workdir}QT_Demo/.ini/text: CUSTOM_COMMAND /home/tinstins/QT_Demo/.ini/text
-  COMMAND = cd /home/tinstins/QT_Demo && /home/tinstins/Qt/Tools/CMake/bin/cmake -E copy /home/tinstins/QT_Demo/.ini/text /home/tinstins/QT_Demo/build/Desktop_Qt_6_8_1-MinSizeRel/QT_Demo/.ini/text
-  DESC = Copying .ini/text to /home/tinstins/QT_Demo/build/Desktop_Qt_6_8_1-MinSizeRel/QT_Demo/.ini/text
   restat = 1
 
 

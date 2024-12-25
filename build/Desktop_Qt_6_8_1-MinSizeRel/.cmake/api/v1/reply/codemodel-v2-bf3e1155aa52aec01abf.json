@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-MinSizeRel-6e1aa76595ada60106b0.json",
+					"jsonFile" : "directory-.-MinSizeRel-ddecf3fc6dd0b7268413.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -103,7 +103,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "appQT_Demo::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-appQT_Demo-MinSizeRel-6534d67b6a89b59e8c9c.json",
+					"jsonFile" : "target-appQT_Demo-MinSizeRel-adfe33581ac532bab4eb.json",
 					"name" : "appQT_Demo",
 					"projectIndex" : 0
 				},

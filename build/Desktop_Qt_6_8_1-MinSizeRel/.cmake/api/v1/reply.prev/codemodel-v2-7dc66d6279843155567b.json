@@ -103,7 +103,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "appQT_Demo::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-appQT_Demo-MinSizeRel-62b50c3f6394d4e3a5d9.json",
+					"jsonFile" : "target-appQT_Demo-MinSizeRel-d7d806a7b8f8c4d2e90e.json",
 					"name" : "appQT_Demo",
 					"projectIndex" : 0
 				},
@@ -159,7 +159,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "appQT_Demo_tooling::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-appQT_Demo_tooling-MinSizeRel-fe9233b1d8d466b60cc0.json",
+					"jsonFile" : "target-appQT_Demo_tooling-MinSizeRel-5b6e017898c288acc0fa.json",
 					"name" : "appQT_Demo_tooling",
 					"projectIndex" : 0
 				},
