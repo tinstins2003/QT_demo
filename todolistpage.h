@@ -19,10 +19,11 @@ public:
     }
     void loadData();
     void saveData();
-    void onReplyFinished();
+
 signals:
 
 public slots:
+    void onReplyFinished();
     void addClicked(QString content);
     void deleteClicked(int index);
     void editClicked(int index, QString newContent);
