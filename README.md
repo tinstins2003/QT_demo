@@ -3,7 +3,7 @@
 
 1. **Navigate to the project directory**  
    ```bash
-   cd /to-do-list-api
+   cd ./to-do-list-api
    ```
 
 2. **Install Yarn globally**  
